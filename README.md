@@ -1,4 +1,4 @@
-#Set Cover Algorithm
+# Set Cover Algorithm
 
 This package solves the set cover algorithm using the greedy approach. 
 
